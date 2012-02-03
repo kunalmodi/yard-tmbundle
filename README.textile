@@ -1,20 +1,30 @@
 h4. Project Description
 
 TextMate Bundle for writing YARD style documentation for ruby scripts
+Originally forked from lsegal/yard-tmbundle, I modified it to make it more relevant to my older style of commenting
+
+h4. Installation
+
+@mkdir /Library/Application\ Support/Textmate/Bundles/@
+@cd /Library/Application\ Support/Textmate/Bundles/@
+@git clone git://github.com/kunalmodi/yard-tmbundle.git@
+@osascript -e 'tell app "TextMate" to reload bundles'@
 
 h4. Snippets
 
   * ##      - Starts documentation
+	* api			- @api
+  * author  - @author
+  * depr    - @deprecated
+	* note		- @note
   * param   - @param
+  * raise   - @raise
+  * return  - @return
+  * see     - @see
   * since   - @since
   * version - @version
-  * author  - @author
-  * see     - @see
-  * raise   - @raise
-  * yparam  - @yieldparam
   * yield   - @yield
-  * return  - @return
-  * depr    - @deprecated
+  * yparam  - @yieldparam
 
 h4. TODO
 

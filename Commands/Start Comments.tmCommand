@@ -8,10 +8,11 @@
 	<string>#!/usr/bin/ruby
 
 comments = &lt;&lt;-"end-comment"
-##
 # $0
 # 
-# @author $USER
+#	@note
+# @param [Types] Name Description
+# @return [Types] Description
 end-comment
 print comments.chomp</string>
 	<key>fallbackInput</key>
