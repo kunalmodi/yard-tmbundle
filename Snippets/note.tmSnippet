@@ -5,12 +5,12 @@
 	<key>content</key>
 	<string>@note $1</string>
 	<key>name</key>
-	<string>note</string>
+	<string>Note</string>
 	<key>scope</key>
 	<string>comment.line.number-sign.ruby</string>
 	<key>tabTrigger</key>
 	<string>note</string>
 	<key>uuid</key>
-	<string>2C841751-10DF-4B94-B83A-7F1C15280FCF</string>
+	<string>2C841751-10DF-4B94-B83A-7F1C15280FAA</string>
 </dict>
 </plist>

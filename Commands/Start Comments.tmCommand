@@ -10,7 +10,7 @@
 comments = &lt;&lt;-"end-comment"
 # $0
 # 
-#	@note
+#	@note $1
 # @param [Types] Name Description
 # @return [Types] Description
 end-comment
