@@ -13,10 +13,10 @@ h4. Installation
 h4. Snippets
 
   * ##      - Starts documentation
-	* api			- @api
+  * api     -@api
   * author  - @author
   * depr    - @deprecated
-	* note		- @note
+  * note    - @note
   * param   - @param
   * raise   - @raise
   * return  - @return
