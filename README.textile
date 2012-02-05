@@ -22,6 +22,7 @@ h4. Snippets
   * return  - @return
   * see     - @see
   * since   - @since
+  * todo    - @todo
   * version - @version
   * yield   - @yield
   * yparam  - @yieldparam
